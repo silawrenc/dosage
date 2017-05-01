@@ -1,0 +1,27 @@
+{
+  "name": "dosage",
+  "version": "1.0.0",
+  "description": "Obvious dependency injection for javascript",
+  "main": "dosage.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silawrenc/dosage.git"
+  },
+  "keywords": [
+    "dependency",
+    "injection",
+    "container"
+  ],
+  "author": "Simon Lawrence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silawrenc/dosage/issues"
+  },
+  "homepage": "https://github.com/silawrenc/dosage#readme",
+  "devDependencies": {
+    "tap": "^10.3.2"
+  }
+}
